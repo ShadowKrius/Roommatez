@@ -2,8 +2,6 @@
 
 <img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="300"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/RoommatezGIF.gif" alt="Roommatez Icon" width="300"/>
 
-
-
 Roommatez is a full-stack, cross-platform mobile application designed to address the challenge of college roommate matching. The app provides a seamless user experience on both Android and iOS platforms, enabling students to find compatible roommates based on shared preferences and interests.
 
 ## Technology Used
@@ -57,6 +55,12 @@ iOS version coming soon.
 
 ## Media
 Check out screenshots and videos of the app below:
+
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/IntroPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/LoginPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/InterestsPage.png" alt="Roommatez Icon" width="200"/> 
+
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/MusicPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/MoreInfoPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/Homescreen.png" alt="Roommatez Icon" width="200"/> 
+
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/Bookmarks.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ChatHomescreen.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ChatPage.png" alt="Roommatez Icon" width="200"/>
 
 ## Contributors
 
