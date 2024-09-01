@@ -50,8 +50,8 @@ The user interface and experience were meticulously designed in Figma. The app f
 3. **Responsive Design:** The UI adapts seamlessly to different screen sizes and orientations, providing an optimal experience on both smartphones and tablets.
 
 ## Download Roommatez
-Google Play Store
-iOS version coming soon.
+- Google Play Store
+- iOS version coming soon.
 
 ## Media
 Check out screenshots and videos of the app below:
