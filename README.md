@@ -1,6 +1,6 @@
-# Roommatez <img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="30"/>
+# Roommatez 
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/RoommatezGIF.gif" alt="Roommatez Icon" width="300"/>
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="300"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/RoommatezGIF.gif" alt="Roommatez Icon" width="300"/>
 
 
 
@@ -54,6 +54,9 @@ The user interface and experience were meticulously designed in Figma. The app f
 ## Download Roommatez
 Google Play Store
 iOS version coming soon.
+
+## Media
+Check out screenshots and videos of the app below:
 
 ## Contributors
 
