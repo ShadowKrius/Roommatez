@@ -1,6 +1,8 @@
-# Roommatez 
+# Roommatez <img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="30"/>
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="200"/>
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/RoommatezGIF.gif" alt="Roommatez Icon" width="300"/>
+
+
 
 Roommatez is a full-stack, cross-platform mobile application designed to address the challenge of college roommate matching. The app provides a seamless user experience on both Android and iOS platforms, enabling students to find compatible roommates based on shared preferences and interests.
 
