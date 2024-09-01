@@ -1,6 +1,6 @@
-# Roommatez
+# Roommatez 
 
-![Roommatez Icon]()
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/icon.png" alt="Roommatez Icon" width="200"/>
 
 Roommatez is a full-stack, cross-platform mobile application designed to address the challenge of college roommate matching. The app provides a seamless user experience on both Android and iOS platforms, enabling students to find compatible roommates based on shared preferences and interests.
 
@@ -53,5 +53,10 @@ The user interface and experience were meticulously designed in Figma. The app f
 Google Play Store
 iOS version coming soon.
 
-## Media
-Check out screenshots and videos of the app below:
+## Contributors
+
+This full-stack application was developed by:
+
+- **Advait Bharadwaj** - [GitHub Profile](https://github.com/ShadowKrius)
+- **Adhiraj Chaddha** - [GitHub Profile](https://github.com/adhirajj)
+
