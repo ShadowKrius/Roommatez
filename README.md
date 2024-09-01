@@ -28,17 +28,13 @@ Roommatez is a full-stack, cross-platform mobile application designed to address
   miss out on any critical information.
 - ### In-App Messaging: Allows users to communicate directly within the app.
   The in-app messaging system is a standout feature of Roommatez, enabling users to communicate directly within the app. Here’s a breakdown of how it works:
-  1. Real-Time Chat: Messages are delivered instantly, allowing for fluid and natural conversations. Firebase's real-time capabilities ensure that there is no noticeable    
-     delay, making the messaging experience as smooth as any major social platform.
-  2. User Interface: Designed in Figma, the chat interface is intuitive and user-friendly. It features easy-to-read message bubbles, timestamps, and user avatars to create       a personalized and engaging experience. The design prioritizes simplicity and accessibility, ensuring that users can easily navigate and use the messaging feature.
-  3. Multimedia Support: The messaging system supports text, images, and even emojis, allowing users to express themselves fully. Future updates may include support for     
-     voice notes, videos, and file sharing.
-  4. Message Notifications: Users receive instant push notifications for new messages, ensuring they stay connected and responsive. Notifications include the sender's name       and a preview of the message content, providing context at a glance.
-  5. Privacy & Security: All messages are encrypted, and user data is protected by Firebase’s robust security protocols. Only intended recipients can view messages,     
-     ensuring that private conversations remain confidential.
+  1. **Real-Time Chat:** Messages are delivered instantly, allowing for fluid and natural conversations. Firebase's real-time capabilities ensure that there is no noticeable delay, making the messaging experience as smooth as any major social platform.
+  2. **User Interface:** Designed in Figma, the chat interface is intuitive and user-friendly. It features easy-to-read message bubbles, timestamps, and user avatars to create       a personalized and engaging experience. The design prioritizes simplicity and accessibility, ensuring that users can easily navigate and use the messaging feature.
+  3. **Multimedia Support:** The messaging system supports text and even emojis, allowing users to express themselves fully. Future updates may include support for voice notes, images, videos, and file sharing.
+  4. **Message Notifications:** Users receive instant push notifications for new messages, ensuring they stay connected and responsive. Notifications include the sender's name and a preview of the message content, providing context at a glance.
+  5. **Privacy & Security:** All messages are encrypted, and user data is protected by Firebase’s robust security protocols. Only intended recipients can view messages, ensuring that private conversations remain confidential.
 - ### Preference-Based Filtering: Enhances roommate compatibility by matching users based on their preferences.
-  Finding the right roommate is all about compatibility. Roommatez uses a sophisticated filtering system that matches users based on their preferences, such as sleep     
-  schedules, study habits, cleanliness, and more. Future updates may include a combination of Firebase's real-time database and custom algorithms to provide users with the    best possible match suggestions.
+  Finding the right roommate is all about compatibility. Roommatez uses a sophisticated filtering system that matches users based on their preferences, such as sleep schedules, study habits, cleanliness, and more. Future updates may include a combination of Firebase's real-time database and custom algorithms to provide users with the    best possible match suggestions.
 
 ## Agile Development & CI/CD
 Throughout the development process, we employed agile methodologies to iterate quickly and efficiently. A CI/CD pipeline was set up to automate testing, building, and deployment, ensuring that the app is always in a deployable state.
