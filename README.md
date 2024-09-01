@@ -56,11 +56,11 @@ iOS version coming soon.
 ## Media
 Check out screenshots and videos of the app below:
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/IntroPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/LoginPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/InterestsPage.png" alt="Roommatez Icon" width="200"/> 
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/IntroPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/LoginPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/InterestsPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/MusicPage.png" alt="Roommatez Icon" width="200"/> 
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/MusicPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/MoreInfoPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/Homescreen.png" alt="Roommatez Icon" width="200"/> 
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/MoreInfoPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/Homescreen.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ViewProfile.png" alt="Roommatez Icon" width="200"/>
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/Bookmarks.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ChatHomescreen.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ChatPage.png" alt="Roommatez Icon" width="200"/>
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/Bookmarks.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ChatHomescreen.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ChatPage.png" alt="Roommatez Icon" width="200"/>
 
 ## Contributors
 
