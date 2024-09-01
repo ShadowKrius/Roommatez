@@ -60,7 +60,7 @@ Check out screenshots and videos of the app below:
 
 <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/MusicPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/MoreInfoPage.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/Homescreen.png" alt="Roommatez Icon" width="200"/> 
 
-<img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ViewProfile.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/Bookmarks.png" alt="Roommatez Icon" width="200"/> 
+<img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ViewProfile.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ViewProfile2.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/Bookmarks.png" alt="Roommatez Icon" width="200"/> 
 
 <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ChatHomescreen.png" alt="Roommatez Icon" width="200"/> <img src="https://github.com/ShadowKrius/Roommatez/blob/main/ss/ChatPage.png" alt="Roommatez Icon" width="200"/>
 
